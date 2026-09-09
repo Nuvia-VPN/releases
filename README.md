@@ -1,29 +1,40 @@
 <div align="center">
 
-# Nuvia VPN
+<img src="https://github.com/Nuvia-VPN.png?size=256" width="120" alt="Nuvia VPN">
+
+# N U V I A
 
 ### Ваше подключение. Ваше пространство.
 
-Официальный центр загрузок приложений Nuvia.
+Официальный центр загрузок приложений **Nuvia VPN**.
 
-**[Скачать для Android](https://github.com/Nuvia-VPN/releases/releases)** · [История версий](https://github.com/Nuvia-VPN/releases/releases) · [Сайт Nuvia](https://nuviapro.org)
+[Все версии и история изменений](https://github.com/Nuvia-VPN/releases/releases)
 
 </div>
 
----
+## Скачать приложение
 
-## Приложения
+<table>
+<thead><tr><th align="left">Платформа</th><th align="left">Загрузить</th></tr></thead>
+<tbody>
+<tr>
+<td width="190"><strong>Android</strong><br><sub>Android 7.0+ · ARM64</sub></td>
+<td>
+<a href="https://github.com/Nuvia-VPN/releases/releases/download/android-v1.0.3-rc.1/Nuvia-v1.0.3-build6-release-d486ac80.apk"><img src="https://img.shields.io/badge/APK-1.0.3%20RC-8B7CFF?style=for-the-badge&logo=android&logoColor=white&labelColor=161B22" alt="Скачать APK 1.0.3 RC для Android ARM64"></a>
+&nbsp;
+<a href="https://github.com/Nuvia-VPN/releases/releases/tag/android-v1.0.3-rc.1"><img src="https://img.shields.io/badge/RELEASE-NOTES-3B82A0?style=for-the-badge&labelColor=161B22" alt="Описание выпуска и SHA-256"></a>
+<br><sub>Предварительный выпуск · около 110 МиБ · подписанный APK</sub>
+</td>
+</tr>
+</tbody>
+</table>
 
-| Платформа | Где скачать |
-| :-- | :-- |
-| **Android** | [APK и описание каждой версии →](https://github.com/Nuvia-VPN/releases/releases) |
-
-Новые платформы появятся здесь вместе с готовыми сборками.
+**RC** — предварительная версия. Прочитайте описание выпуска перед установкой. Другие платформы и зеркала будут добавлены вместе с готовыми сборками.
 
 ## Установить за три шага
 
-1. Откройте нужный выпуск в **Releases** и проверьте требования к устройству.
-2. В блоке **Assets** скачайте файл **`.apk`**.
+1. Нажмите **APK** в таблице выше или выберите нужную версию в **Releases**. Проверьте требования к устройству.
+2. Скачайте файл **`.apk`**. При загрузке со страницы выпуска он находится в блоке **Assets**.
 3. Откройте файл на Android и следуйте подсказкам системы. Если потребуется, разрешите установку для приложения, из которого открываете APK.
 
 > Архивы **Source code (zip / tar.gz)** создаёт GitHub. Это не установочные файлы Nuvia — для Android нужен **APK**.
@@ -42,6 +53,6 @@
 
 <div align="center">
 
-**N U V I A** &nbsp; · &nbsp; [nuviapro.org](https://nuviapro.org)
+**N U V I A** &nbsp; · &nbsp; [Все приложения](https://github.com/Nuvia-VPN)
 
 </div>
