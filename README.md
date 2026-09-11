@@ -11,6 +11,7 @@
 [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
+
 ## Android
 
 Android 7.0 и новее · ARM64 · подписанный APK · около 115 МБ.
