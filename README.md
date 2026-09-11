@@ -6,7 +6,7 @@
 
 Официальные сборки Nuvia VPN для Android.
 
-[Скачать Nuvia 1.0.19](https://github.com/Nuvia-VPN/releases/releases/download/v1.0.19/Nuvia.apk) · [Описание выпуска](https://github.com/Nuvia-VPN/releases/releases/tag/v1.0.19)
+[Скачать Nuvia 1.0.20](https://github.com/Nuvia-VPN/releases/releases/download/v1.0.20/Nuvia.apk) · [Описание выпуска](https://github.com/Nuvia-VPN/releases/releases/tag/v1.0.20)
 
 </div>
 
@@ -16,15 +16,15 @@ Android 7.0 и новее · ARM64 · подписанный APK · около 1
 
 **Nuvia можно использовать бесплатно.**
 
-В версии 1.0.19 кнопка выхода доступна сразу в настройках. Результаты проверки пинга плавно исчезают через 30 секунд. Обновлено уведомление об обновлении подписки. Ссылкой приглашения можно поделиться из раздела «Трафик и бонусы». Журнал событий находится в **Настройки → Логи**.
+В версии 1.0.20 обновлён раздел приглашений и улучшено восстановление незавершённых действий. Условия приглашений и балансы отображаются по данным сервера. Кнопка выхода доступна сразу в настройках; журнал событий — в **Настройки → Логи**.
 
 ## Установить за три шага
 
-1. Скачайте [Nuvia.apk](https://github.com/Nuvia-VPN/releases/releases/download/v1.0.19/Nuvia.apk).
+1. Скачайте [Nuvia.apk](https://github.com/Nuvia-VPN/releases/releases/download/v1.0.20/Nuvia.apk).
 2. Откройте файл на Android и следуйте подсказкам системы.
 3. Запустите Nuvia и войдите в аккаунт.
 
-Для обновления установите APK поверх предыдущей релизной версии. Контрольная сумма опубликована в [SHA256SUMS.txt](https://github.com/Nuvia-VPN/releases/releases/download/v1.0.19/SHA256SUMS.txt) и описании выпуска.
+Для обновления установите APK поверх предыдущей релизной версии. Контрольная сумма опубликована в [SHA256SUMS.txt](https://github.com/Nuvia-VPN/releases/releases/download/v1.0.20/SHA256SUMS.txt) и описании выпуска.
 
 ## Поддержка
 
