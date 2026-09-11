@@ -8,8 +8,9 @@
 
 [Скачать Nuvia 1.0.20](https://github.com/Nuvia-VPN/releases/releases/download/v1.0.20/Nuvia.apk) · [Описание выпуска](https://github.com/Nuvia-VPN/releases/releases/tag/v1.0.20)
 
-</div>
+[Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
+</div>
 ## Android
 
 Android 7.0 и новее · ARM64 · подписанный APK · около 115 МБ.
