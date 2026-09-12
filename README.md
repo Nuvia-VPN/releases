@@ -6,7 +6,7 @@
 
 Официальные сборки Nuvia VPN для Android.
 
-[Скачать Nuvia 1.0.45](https://github.com/Nuvia-VPN/releases/releases/download/v1.0.45/Nuvia.apk) · [Описание выпуска](https://github.com/Nuvia-VPN/releases/releases/tag/v1.0.45)
+[Скачать Nuvia 1.0.46](https://github.com/Nuvia-VPN/releases/releases/download/v1.0.46/Nuvia.apk) · [Описание выпуска](https://github.com/Nuvia-VPN/releases/releases/tag/v1.0.46)
 
 [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
@@ -18,7 +18,7 @@ Android 7.0 и новее · ARM64 · подписанный APK · около 1
 
 **Nuvia можно использовать бесплатно.**
 
-В версии 1.0.45 доступны русский, английский, китайский и персидский языки. Язык можно выбрать до входа или в настройках: **Язык · Language · 语言 · زبان**. Числовые значения отображаются цифрами 0–9 во всех языках.
+В версии 1.0.46 доступны русский, английский, китайский и персидский языки. Язык можно выбрать до входа или в настройках: **Язык · Language · 语言 · زبان**. Числовые значения отображаются цифрами 0–9 во всех языках.
 
 На главном экране доступны карточки новостей и уведомлений. При смене карточек список локаций остаётся на месте.
 
@@ -26,13 +26,15 @@ Android 7.0 и новее · ARM64 · подписанный APK · около 1
 
 Кнопка выхода доступна сразу в настройках; журнал событий — в **Настройки → Логи**.
 
+В сборку включены ядра Xray, AmneziaWG и OLCRTC. Работа Xray проверена; реальные подключения AmneziaWG и OLCRTC ещё проходят подготовку. Доступность новых протоколов зависит от конфигураций подписки. Подробнее — в [описании выпуска](https://github.com/Nuvia-VPN/releases/releases/tag/v1.0.46).
+
 ## Установить за три шага
 
-1. Скачайте [Nuvia.apk](https://github.com/Nuvia-VPN/releases/releases/download/v1.0.45/Nuvia.apk).
+1. Скачайте [Nuvia.apk](https://github.com/Nuvia-VPN/releases/releases/download/v1.0.46/Nuvia.apk).
 2. Откройте файл на Android и следуйте подсказкам системы.
 3. Запустите Nuvia и войдите в аккаунт.
 
-Для обновления установите APK поверх предыдущей релизной версии. Контрольная сумма опубликована в [SHA256SUMS.txt](https://github.com/Nuvia-VPN/releases/releases/download/v1.0.45/SHA256SUMS.txt) и описании выпуска.
+Для обновления установите APK поверх предыдущей релизной версии. Контрольная сумма опубликована в [SHA256SUMS.txt](https://github.com/Nuvia-VPN/releases/releases/download/v1.0.46/SHA256SUMS.txt) и описании выпуска.
 
 ## Поддержка
 
