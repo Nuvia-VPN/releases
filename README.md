@@ -8,15 +8,15 @@
 
 <a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/main/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
 
-[Что нового](docs/changes/1.2.30-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
+[Что нового](docs/changes/1.2.31-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
 ## Скачать
 
-**Текущая версия — 1.2.30.** Для Android 7.0 и новее, 64-разрядных устройств.
+**Текущая версия — 1.2.31.** Для Android 7.0 и новее, 64-разрядных устройств.
 
-[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.30)
+[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.31)
 
 Для обновления установите APK поверх прежней версии приложения — аккаунт и настройки сохранятся.
 
@@ -32,9 +32,9 @@
 
 ## Что нового
 
-Исправлено переключение между сохранёнными аккаунтами после ошибки входа. Если сохранённый вход недоступен, приложение подсказывает войти по почте.
+Улучшено обновление остатка трафика после действий с VPN и обновления подписки. Состояние дневного лимита обновляется без повторного входа.
 
-[Все изменения в 1.2.30](docs/changes/1.2.30-ru.md).
+[Все изменения в 1.2.31](docs/changes/1.2.31-ru.md).
 
 ## Поддержка
 
