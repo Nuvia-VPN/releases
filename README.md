@@ -8,15 +8,15 @@
 
 <a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/main/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
 
-[Что нового](docs/changes/1.2.33-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
+[Что нового](docs/changes/1.2.37-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
 ## Скачать
 
-**Текущая версия — 1.2.33.** Для Android 7.0 и новее, 64-разрядных устройств.
+**Текущая версия — 1.2.37.** Для Android 7.0 и новее, 64-разрядных устройств.
 
-[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.33)
+[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.37)
 
 Для обновления установите APK поверх прежней версии приложения — аккаунт и настройки сохранятся.
 
@@ -32,9 +32,9 @@
 
 ## Что нового
 
-Выровнены отступы кнопки PRO на Главной. Исправлено размещение кнопок в компактных объявлениях.
+Улучшена стабильность подключения и повторного подключения к VPN. Исправлены случаи, когда действующая подписка требовала ручного обновления перед подключением.
 
-[Все изменения в 1.2.33](docs/changes/1.2.33-ru.md).
+[Все изменения в 1.2.37](docs/changes/1.2.37-ru.md).
 
 ## Поддержка
 
