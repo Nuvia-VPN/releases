@@ -8,15 +8,15 @@
 
 <a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/main/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
 
-[Что нового](docs/changes/1.2.46-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
+[Что нового](docs/changes/1.2.47-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
 ## Скачать
 
-**Текущая версия — 1.2.46.** Для Android 7.0 и новее, 64-разрядных устройств.
+**Текущая версия — 1.2.47.** Для Android 7.0 и новее, 64-разрядных устройств.
 
-[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.46)
+[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.47)
 
 Для обновления установите APK поверх прежней версии приложения — аккаунт и настройки сохранятся.
 
@@ -32,9 +32,9 @@
 
 ## Что нового
 
-Исправлены повторный вход, подготовка подписки и автоматическая активация пробного PRO при первом подтверждении почты. После исчерпания трафика VPN завершается и возвращает обычное подключение к интернету.
+Добавлена ручная проверка подтверждения почты и пояснения к продвинутым настройкам. Улучшены вход и восстановление подключения при сбоях.
 
-[Все изменения в 1.2.46](docs/changes/1.2.46-ru.md).
+[Все изменения в 1.2.47](docs/changes/1.2.47-ru.md).
 
 ## Поддержка
 
