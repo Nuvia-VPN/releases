@@ -6,19 +6,21 @@
 
 Официальное приложение Nuvia для Android.
 
-<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/d1e7455134a897f64f7e40ff2014e31cf1255130/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
+<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/cb56d5a865db7c2898c2d2bafa8ddb789c0461ab/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
 
-[Что нового](docs/changes/1.2.48-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
+[Что нового](docs/changes/1.2.49-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
 ## Скачать
 
-**Текущая версия — 1.2.48.** Для Android 7.0 и новее, 64-разрядных устройств.
+**Текущая версия — 1.2.49.** Для Android 7.0 и новее, 64-разрядных устройств.
 
-[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.48)
+[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.49)
 
 Для обновления установите APK поверх прежней версии приложения — аккаунт и настройки сохранятся.
+
+Восстановление сервиса продолжается. Вход и VPN пока могут быть недоступны; о готовности к тестированию сообщим отдельно.
 
 ## Возможности
 
@@ -32,9 +34,9 @@
 
 ## Что нового
 
-Уточнены состояния подтверждения почты и ручной проверки. Исправлена ошибка блока промокодов после пересоздания аккаунта.
+Обновлена совместимость с восстановленным сервисом Nuvia и обновление сохранённых данных подключения.
 
-[Все изменения в 1.2.48](docs/changes/1.2.48-ru.md).
+[Все изменения в 1.2.49](docs/changes/1.2.49-ru.md).
 
 ## Поддержка
 
