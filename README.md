@@ -6,23 +6,23 @@
 
 Официальное приложение Nuvia для Android.
 
-<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/a919b3c2e276f6ad7744f481caa254d1437ab6f5/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
+<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/6366e3908c39f05d53bfed540bc184013aa7a3d2/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
 
-[Что нового](docs/changes/1.2.54-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
+[Что нового](docs/changes/1.2.55-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
 ## Скачать
 
-**Текущая версия — 1.2.54.** Для Android 7.0 и новее, 64-разрядных устройств.
+**Текущая версия — 1.2.55.** Для Android 7.0 и новее, 64-разрядных устройств.
 
-[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.54)
+[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.55)
 
 Для обновления установите APK поверх прежней версии приложения — аккаунт и настройки сохранятся.
 
-Версия для тестирования. Исправлено переподключение после смены локации. Добавлен переход к регистрации с экрана входа по почте. Повторная регистрация после удаления аккаунта продолжается автоматически с понятным статусом подготовки.
+Версия для тестирования. Исправлена ошибка, из-за которой VPN иногда не подключался повторно после автоматической смены локации.
 
-Если проверка новой версии в приложении не сработала, скачайте [APK 1.2.54](https://github.com/Nuvia-VPN/releases/releases/download/v1.2.54/Nuvia.apk) и установите поверх текущей версии.
+Если проверка новой версии в приложении не сработала, скачайте [APK 1.2.55](https://github.com/Nuvia-VPN/releases/releases/download/v1.2.55/Nuvia.apk) и установите поверх текущей версии.
 
 ## Возможности
 
@@ -36,9 +36,9 @@
 
 ## Что нового
 
-Исправлено переподключение после смены локации. Добавлен переход к регистрации с экрана входа по почте. Повторная регистрация после удаления аккаунта продолжается автоматически с понятным статусом подготовки.
+Исправлена ошибка, из-за которой VPN иногда не подключался повторно после автоматической смены локации.
 
-[Все изменения в 1.2.54](docs/changes/1.2.54-ru.md).
+[Все изменения в 1.2.55](docs/changes/1.2.55-ru.md).
 
 ## Поддержка
 
