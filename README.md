@@ -6,23 +6,23 @@
 
 Официальное приложение Nuvia для Android.
 
-<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/bcf0d62a5561c378878a42e8af6693c1fb61370f/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
+<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/03d3f47ff401d5f93a2f6c6a5c8298dfaf5dd96f/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
 
-[Что нового](docs/changes/1.2.59-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
+[Что нового](docs/changes/1.2.61-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
 ## Скачать
 
-**Текущая версия — 1.2.59.** Для Android 7.0 и новее, 64-разрядных устройств.
+**Текущая версия — 1.2.61.** Для Android 7.0 и новее, 64-разрядных устройств.
 
-[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.59)
+[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.61)
 
 Для обновления установите APK поверх прежней версии приложения — аккаунт и настройки сохранятся.
 
 Когда остаётся меньше 500 МБ, Nuvia обновляет подписку при каждом открытии приложения, даже с выключенным VPN.
 
-Если проверка новой версии в приложении не сработала, скачайте [APK 1.2.59](https://github.com/Nuvia-VPN/releases/releases/download/v1.2.59/Nuvia.apk) и установите поверх текущей версии.
+Если проверка новой версии в приложении не сработала, скачайте [APK 1.2.61](https://github.com/Nuvia-VPN/releases/releases/download/v1.2.61/Nuvia.apk) и установите поверх текущей версии.
 
 ## Возможности
 
@@ -36,9 +36,9 @@
 
 ## Что нового
 
-Уведомление об исчерпании трафика больше не исчезает при промежуточном обновлении данных. Нажатие на остаток Free открывает тарифы.
+Обновлено VPN-подключение. Когда общий трафик аккаунта заканчивается, уведомление приходит на устройства с включённым VPN, один раз за период.
 
-[Все изменения в 1.2.59](docs/changes/1.2.59-ru.md).
+[Все изменения в 1.2.61](docs/changes/1.2.61-ru.md).
 
 ## Поддержка
 
