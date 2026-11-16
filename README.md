@@ -6,23 +6,23 @@
 
 Официальное приложение Nuvia для Android.
 
-<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/b6a5c4e0564601ac8f08487288c1526da3092832/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
+<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/eeb1f59774c5b87be5f1bc10c4e7967b653cef64/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
 
-[Что нового](docs/changes/1.2.65-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
+[Что нового](docs/changes/1.2.66-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
 ## Скачать
 
-**Текущая версия — 1.2.65.** Для Android 7.0 и новее, 64-разрядных устройств.
+**Текущая версия — 1.2.66.** Для Android 7.0 и новее, 64-разрядных устройств.
 
-[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.65)
+[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.66)
 
 Для обновления установите APK поверх прежней версии приложения — аккаунт и настройки сохранятся.
 
 Когда остаётся меньше 500 МБ, Nuvia обновляет подписку при каждом открытии приложения, даже с выключенным VPN.
 
-Если проверка новой версии в приложении не сработала, скачайте [APK 1.2.65](https://github.com/Nuvia-VPN/releases/releases/download/v1.2.65/Nuvia.apk) и установите поверх текущей версии.
+Если проверка новой версии в приложении не сработала, скачайте [APK 1.2.66](https://github.com/Nuvia-VPN/releases/releases/download/v1.2.66/Nuvia.apk) и установите поверх текущей версии.
 
 ## Возможности
 
@@ -36,9 +36,9 @@
 
 ## Что нового
 
-Исправлена потеря части логов при подготовке файла для поддержки.
+Исправлено автоматическое восстановление VPN после обрыва Wi-Fi.
 
-[Все изменения в 1.2.65](docs/changes/1.2.65-ru.md).
+[Все изменения в 1.2.66](docs/changes/1.2.66-ru.md).
 
 ## Поддержка
 
