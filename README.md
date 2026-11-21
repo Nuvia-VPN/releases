@@ -6,23 +6,23 @@
 
 Официальное приложение Nuvia для Android.
 
-<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/5d1ad1a99e31374d6ed3127110d3ad9951acd518/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
+<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/15484708536c517992da69db65bdc6bb92b5bc67/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
 
-[Что нового](docs/changes/1.2.75-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
+[Что нового](docs/changes/1.2.76-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
 ## Скачать
 
-**Текущая версия — 1.2.75.** Для Android 7.0 и новее, 64-разрядных устройств.
+**Текущая версия — 1.2.76.** Для Android 7.0 и новее, 64-разрядных устройств.
 
-[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.75)
+[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.76)
 
 Для обновления установите APK поверх прежней версии приложения — аккаунт и настройки сохранятся.
 
 Когда остаётся меньше 500 МБ, Nuvia обновляет подписку при каждом открытии приложения, даже с выключенным VPN.
 
-Если проверка новой версии в приложении не сработала, скачайте [APK 1.2.75](https://github.com/Nuvia-VPN/releases/releases/download/v1.2.75/Nuvia.apk) и установите поверх текущей версии.
+Если проверка новой версии в приложении не сработала, скачайте [APK 1.2.76](https://github.com/Nuvia-VPN/releases/releases/download/v1.2.76/Nuvia.apk) и установите поверх текущей версии.
 
 ## Возможности
 
@@ -36,9 +36,11 @@
 
 ## Что нового
 
-Уменьшили значок и значение пинга в списке локаций.
+Исправили повторную отправку письма для входа. Когда время ожидания заканчивается, кнопка «Повторить» снова доступна.
 
-[Все изменения в 1.2.75](docs/changes/1.2.75-ru.md).
+Убрали кнопку «Пригласить друга» с карточки трафика на Главной.
+
+[Все изменения в 1.2.76](docs/changes/1.2.76-ru.md).
 
 ## Поддержка
 
