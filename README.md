@@ -6,23 +6,21 @@
 
 Официальное приложение Nuvia для Android.
 
-<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/751ef1cc0069ad4f37ee91a8919417ab6b5d5512/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
+<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/09158aa66f7fc597f899e27471adf8214a6e4b81/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
 
-[Что нового](docs/changes/1.2.80-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
+[Что нового](docs/changes/1.2.81-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
 ## Скачать
 
-**Текущая версия — 1.2.80.** Для Android 7.0 и новее, 64-разрядных устройств.
+**Текущая версия — 1.2.81.** Для Android 7.0 и новее, 64-разрядных устройств.
 
-[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.80)
+[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.81)
 
 Для обновления установите APK поверх прежней версии приложения — аккаунт и настройки сохранятся.
 
 Когда остаётся меньше 500 МБ, Nuvia обновляет подписку при каждом открытии приложения, даже с выключенным VPN.
-
-Если проверка новой версии в приложении не сработала, скачайте [APK 1.2.80](https://github.com/Nuvia-VPN/releases/releases/download/v1.2.80/Nuvia.apk) и установите поверх текущей версии.
 
 ## Возможности
 
@@ -36,11 +34,11 @@
 
 ## Что нового
 
-При оплате подписки Nuvia открывает страницу оплаты в браузере. Если вы вернулись в приложение до завершения оплаты, нажмите «Перейти к оплате», чтобы продолжить по тому же счёту.
+В версии 1.2.81 обновление APK устанавливается вручную. Чтобы скачать новую версию, откройте «Настройки → О приложении → Проверить обновления». Кнопка откроет страницу релиза на GitHub.
 
-Если основной адрес сервиса недоступен, приложение может подключиться через резервный. Новые адреса приходят без обновления приложения.
+Убрали автоматическую проверку новой версии приложения. При запуске больше не появляется сообщение «Не удалось проверить обновления».
 
-[Все изменения в 1.2.80](docs/changes/1.2.80-ru.md).
+[Все изменения в 1.2.81](docs/changes/1.2.81-ru.md).
 
 ## Поддержка
 
