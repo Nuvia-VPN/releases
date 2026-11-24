@@ -6,17 +6,17 @@
 
 Официальное приложение Nuvia для Android.
 
-<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/09158aa66f7fc597f899e27471adf8214a6e4b81/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
+<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/8b6a27b3262e025182fc71e696f53462c571fbbe/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
 
-[Что нового](docs/changes/1.2.81-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
+[Что нового](docs/changes/1.2.83-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
 ## Скачать
 
-**Текущая версия — 1.2.81.** Для Android 7.0 и новее, 64-разрядных устройств.
+**Текущая версия — 1.2.83.** Для Android 7.0 и новее, 64-разрядных устройств.
 
-[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.81)
+[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.83)
 
 Для обновления установите APK поверх прежней версии приложения — аккаунт и настройки сохранятся.
 
@@ -34,11 +34,11 @@
 
 ## Что нового
 
-В версии 1.2.81 обновление APK устанавливается вручную. Чтобы скачать новую версию, откройте «Настройки → О приложении → Проверить обновления». Кнопка откроет страницу релиза на GitHub.
+- Исправили ошибку при первой загрузке подписки. Если после регистрации подписка ещё готовится, приложение дожидается её в рамках того же запроса.
+- После удаления аккаунта приложение показывает, что идёт подготовка, и автоматически продолжает повторную регистрацию, когда прежний доступ отозван.
+- При возврате из браузера на главный экран работающий VPN отображается как «VPN включён», а кнопка показывает «Отключить».
 
-Убрали автоматическую проверку новой версии приложения. При запуске больше не появляется сообщение «Не удалось проверить обновления».
-
-[Все изменения в 1.2.81](docs/changes/1.2.81-ru.md).
+[Все изменения в 1.2.83](docs/changes/1.2.83-ru.md).
 
 ## Поддержка
 
