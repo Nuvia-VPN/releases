@@ -6,19 +6,19 @@
 
 Официальное приложение Nuvia для Android.
 
-<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/8b6a27b3262e025182fc71e696f53462c571fbbe/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
+<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/1bab56ac6d43f686108e9d86e5592d7545db80f1/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
 
-[Что нового](docs/changes/1.2.83-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
+[Что нового](docs/changes/1.2.86-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
 ## Скачать
 
-**Текущая версия — 1.2.83.** Для Android 7.0 и новее, 64-разрядных устройств.
+**Текущая версия — 1.2.86.** Для Android 7.0 и новее, 64-разрядных устройств.
 
-[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.83)
+[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.86)
 
-Для обновления установите APK поверх прежней версии приложения — аккаунт и настройки сохранятся.
+Для обновления установите APK поверх прежней версии приложения — аккаунт и настройки сохранятся. Кнопка «Обновления» в этой сборке открывает Google Play. Для обновления через GitHub скачайте APK со страницы релиза.
 
 Когда остаётся меньше 500 МБ, Nuvia обновляет подписку при каждом открытии приложения, даже с выключенным VPN.
 
@@ -34,11 +34,10 @@
 
 ## Что нового
 
-- Исправили ошибку при первой загрузке подписки. Если после регистрации подписка ещё готовится, приложение дожидается её в рамках того же запроса.
-- После удаления аккаунта приложение показывает, что идёт подготовка, и автоматически продолжает повторную регистрацию, когда прежний доступ отозван.
-- При возврате из браузера на главный экран работающий VPN отображается как «VPN включён», а кнопка показывает «Отключить».
+- Уменьшили размер APK до 50 МБ. В этой сборке VPN работает через Xray, включая ручной выбор локации и «Автовыбор». Движки AmneziaWG и OlcRTC исключены.
+- При загрузке подписки приложение даёт основному серверу до 6 секунд на соединение. Если установить его не удалось, приложение пробует резервный сервер. После подключения оно ждёт ответ до 40 секунд.
 
-[Все изменения в 1.2.83](docs/changes/1.2.83-ru.md).
+[Все изменения в 1.2.86](docs/changes/1.2.86-ru.md).
 
 ## Поддержка
 
