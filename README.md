@@ -6,17 +6,17 @@
 
 Официальное приложение Nuvia для Android.
 
-<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/1bab56ac6d43f686108e9d86e5592d7545db80f1/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
+<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/ab89a3c586e501fbcf7b9eb013a462be8af0611b/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
 
-[Что нового](docs/changes/1.2.87-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
+[Что нового](docs/changes/1.2.95-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
 ## Скачать
 
-**Текущая версия — 1.2.87.** Для Android 7.0 и новее, 64-разрядных устройств.
+**Текущая версия — 1.2.95.** Для Android 7.0 и новее, 64-разрядных устройств.
 
-[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.87)
+[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.2.95)
 
 Для обновления установите APK поверх прежней версии приложения — аккаунт и настройки сохранятся. Кнопка «Обновления» в этой сборке открывает Google Play. Для обновления через GitHub скачайте APK со страницы релиза.
 
@@ -34,11 +34,11 @@
 
 ## Что нового
 
-- При возврате в гостевой аккаунт приложение само повторяет запрос, если ответ сервера потерялся.
-- При удалении гостевого аккаунта приложение повторяет предварительную проверку после краткого обрыва связи. Одного подтверждения удаления достаточно.
-- При повторной регистрации приложение продолжает показывать подготовку аккаунта, пока ждёт сервер. Исправили и краткое сообщение об ошибке, которое могло появиться сразу после подтверждения почты.
+- При кратком обрыве связи приложение повторяет запрос при возврате в гостевой аккаунт, регистрации и удалении аккаунта.
+- После входа или регистрации Nuvia показывает «Подготавливаем подписку…», пока загружается список локаций. Пустой список по-прежнему можно обновить вручную.
+- Исправили подключение к VPN одним нажатием, когда во время запуска приходят обновлённые настройки.
 
-[Все изменения в 1.2.87](docs/changes/1.2.87-ru.md).
+[Все изменения в 1.2.95](docs/changes/1.2.95-ru.md).
 
 ## Поддержка
 
