@@ -6,17 +6,17 @@
 
 Официальное приложение Nuvia для Android.
 
-<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/cd869816640889ec8561e81516689a7d99e021db/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
+<a href="https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk"><img src="https://raw.githubusercontent.com/Nuvia-VPN/.github/dd436e055f35015f5f14e232a100d55b746c6880/assets/install-android.svg" width="460" alt="Скачать Nuvia для Android"></a>
 
-[Что нового](docs/changes/1.4.1-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
+[Что нового](docs/changes/1.4.2-ru.md) · [Официальный сайт](https://nuviapro.org/) · [English](https://nuviapro.org/en/)
 
 </div>
 
 ## Скачать
 
-**Текущая версия — 1.4.1.** Для Android 7.0 и новее, 64-разрядных устройств.
+**Текущая версия — 1.4.2.** Для Android 7.0 и новее, 64-разрядных устройств.
 
-[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.4.1)
+[Скачать APK](https://github.com/Nuvia-VPN/releases/releases/latest/download/Nuvia.apk) · [Описание обновления](https://github.com/Nuvia-VPN/releases/releases/tag/v1.4.2)
 
 Для обновления установите APK поверх прежней версии приложения — аккаунт и настройки сохранятся. Кнопка «Обновления» в этой сборке открывает Google Play. Для обновления через GitHub скачайте APK со страницы релиза.
 
@@ -34,10 +34,10 @@
 
 ## Что нового
 
-- Когда VPN выключен, вкладка «Подписка» проверяет тариф при открытии. Если PRO активен, вы увидите срок действия и сможете продлить подписку.
-- Открытая вкладка «Подписка» обновляет цены по окончании срока их действия. Когда приложение получит актуальную цену, кнопка «Оформить» снова станет доступна.
+- На главном экране PRO остаток трафика теперь виден в центре карточки. По сторонам показаны расход, лимит и срок действия подписки.
+- Если известна дата обновления лимита трафика, она показана отдельно от окончания подписки. На узком экране и при крупном шрифте подписи располагаются на отдельной строке.
 
-[Все изменения в 1.4.1](docs/changes/1.4.1-ru.md).
+[Все изменения в 1.4.2](docs/changes/1.4.2-ru.md).
 
 ## Поддержка
 
